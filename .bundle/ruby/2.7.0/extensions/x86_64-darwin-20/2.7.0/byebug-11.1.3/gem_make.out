@@ -1,0 +1,19 @@
+current directory: /Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/.bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+/Users/elliotolbright/.rbenv/versions/2.7.2/bin/ruby -I /Users/elliotolbright/.rbenv/versions/2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20211111-9163-jzbvuq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/.bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= clean
+
+current directory: /Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/.bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\=
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/.bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20211111-9163-dykwsl/byebug

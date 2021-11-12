@@ -1,0 +1,119 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/app/facades/hatchway_facade.rb": {
+        "lines": [
+          1,
+          1,
+          8,
+          8,
+          196,
+          null,
+          null,
+          7,
+          147,
+          5,
+          null,
+          6,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/app/services/hatchway_service.rb": {
+        "lines": [
+          1,
+          1,
+          9,
+          9,
+          null,
+          9,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/app/services/base_service.rb": {
+        "lines": [
+          1,
+          1,
+          9,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/app/POROS/post.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          196,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/app/controllers/ping_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/app/controllers/api/posts_controller.rb": {
+        "lines": [
+          1,
+          1,
+          7,
+          5,
+          null,
+          null
+        ]
+      },
+      "/Users/elliotolbright/Code/tech_challangs/settle/settle_assessment/app/serializers/hatchway_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          5,
+          null,
+          140,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1636687181
+  }
+}
